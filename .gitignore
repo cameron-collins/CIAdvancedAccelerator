@@ -3,3 +3,11 @@
 .project
 IlluminatedCloud/
 *.iml
+.classpath
+.DS_Store
+.salesforce
+node_modules
+.tern-project
+.settings
+selenium-client-jars/
+test/artifacts
